@@ -32,3 +32,7 @@ with Diagram("Grouped Workers", show=False, direction="TB"):
 
 Do not publish the server on the Internet.
 This server have some security hole.
+
+## License
+
+MIT
